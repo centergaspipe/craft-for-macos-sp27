@@ -1,4 +1,4 @@
-
+custom Craft for macOS Plugin | export to PDF + voice notes offers the most advanced Craft for macOS plugin, with export to PDF and voice notes. Ideal for professionals.
 
 
 
